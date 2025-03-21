@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Abiud <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hola 👋, soy Abiud </h1>
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=600&color=F7F7F7&background=000000&center=true&vCenter=true&multiline=true&width=550&height=80&lines=Ingeniero+en+Comunicaciones+y+Electr%C3%B3nica;Con+especialidad+en+Computaci%C3%B3n++%F0%9F%92%BB" alt="Typing SVG" /></a>
 </p>
